@@ -1,4 +1,4 @@
-# Jam City Demo
+# Translation API Demo
 
 ## Dependencies
 the following dependencies should be installed on your client before deploying this demo
@@ -12,7 +12,7 @@ Follow these steps to config and deploy the Google translation demo:
 1. Clone the repo
 
     ```
-    git clone https://github.com/John-Anthony-L/Jamcity-translation-demo.git
+    git clone [https://github.com/John-Anthony-L/Jamcity-translation-demo.git](https://github.com/John-Anthony-L/Translation-API-demo)
     ```
 
 
@@ -31,7 +31,7 @@ Follow these steps to config and deploy the Google translation demo:
 ## to run
 In order to run the script, within the command line you will need to create the virtual environment and install the required packages. setup.sh does this for you
 
-after that is successful, please run **jam_city_demo.py**  **excel file we wish to translate**, note that it is important to have an "English" column to translate. After translation is complete into all reqeusted languages (see constants.py) it will create a file that is identical to the input file with the translated languages added.
+after that is successful, please run **demo.py**  **excel file we wish to translate**, note that it is important to have an "English" column to translate. After translation is complete into all reqeusted languages (see constants.py) it will create a file that is identical to the input file with the translated languages added.
 
 ### files:
 * jam_city_demo.py: the main file which runs the demo

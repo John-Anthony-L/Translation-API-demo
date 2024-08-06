@@ -15,10 +15,13 @@ Follow these steps to config and deploy the Google translation demo:
     git clone https://github.com/John-Anthony-L/Jamcity-translation-demo.git
     ```
 
+
 2. Run the setup.sh file
-    '''
+    ```
     source setup.sh
-    '''
+    ```
+    This creates the virtual environment and installs all required packages
+
 
 3. Edit the constants.py file 
 

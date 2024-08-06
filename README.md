@@ -12,7 +12,7 @@ Follow these steps to config and deploy the Google translation demo:
 1. Clone the repo
 
     ```
-    git clone [https://github.com/John-Anthony-L/Jamcity-translation-demo.git](https://github.com/John-Anthony-L/Translation-API-demo)
+    git clone https://github.com/John-Anthony-L/Translation-API-demo.git
     ```
 
 

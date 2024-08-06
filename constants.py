@@ -1,7 +1,7 @@
 
-PROJECT_ID = 'translate-api-tut'
+PROJECT_ID = '###ADD YOUR PROJECT ID###'
 
-LOCATION = 'us-central1'
+LOCATION = '###ADD YOUR LOCATION###'
 
 # to be clear this is only the languages that were asked for, not an exaustive list of 
 # langauges that google translation API supports

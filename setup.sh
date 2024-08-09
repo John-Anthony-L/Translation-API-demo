@@ -1,8 +1,8 @@
 #!/bin/bash
-python3 -m venv jamcity_venv
+python3 -m venv translation_demo_venv
 
 # Activate the virtual environment
-source myenv/bin/jamcity_venv
+source myenv/bin/translation_demo_venv
 
 # Install dependencies from requirements.txt
 pip install -r requirements.txt

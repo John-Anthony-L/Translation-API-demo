@@ -3,6 +3,9 @@ import pandas as pd
 from translation_API import translation_API
 from constants import *
 import helper
+"""
+Main file to run which does the Translation itself from input file
+"""
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
